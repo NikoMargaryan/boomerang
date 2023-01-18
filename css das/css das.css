@@ -1,0 +1,436 @@
+body{
+	margin:0px;
+}
+.header-top{
+	background-color:#f3f4f5;
+	padding-top:7px;
+	padding-bottom:10px;
+	text-align:right;
+}
+.container{
+	width: 1150px;
+	margin:auto;
+}
+.header-top select{
+	font-size:13px;
+	color:#aaacb3;
+	background-color:#ffffff;
+	border-radius:5px;
+	border:none;
+	height:28px;
+	width:86px;
+	padding-left:12px;
+	padding-right:9px;
+	outline:none;
+}
+.header-top button{
+	font-size:13px;
+	color:#fff;
+	background-color:#60c432;
+	border-radius:5px;
+	border:none;
+	height:28px;
+	width:72px;
+	padding-left:17px;
+	padding-right:17px;
+	margin-left:21px;
+}
+.header-top2{
+	padding-top:45px;
+	padding-bottom:41px;
+	background-color:#fff;	
+}
+.clear{
+	clear:both;
+}
+.logo{
+	float:left;
+}
+.menu{
+	padding-left:0px;
+	float:right;
+}
+.menu li{
+	list-style-type:none;
+	margin-left:46px;
+	float:left;
+}
+a{
+	text-decoration:none;
+	color:#43485e;
+}
+.menu li a:hover{
+	color:#459f24;
+}
+.nkar{
+	background-image:url("../nkar/C-_Users_PC3_Desktop_web-developer_Николай_vyorstka_nkar_picjumbo.jpg");
+	height:707px;
+	background-attachment:fixed;
+	padding:1px;
+}
+.cash{
+	padding-top:180px;
+	padding-bottom:58px;
+	
+} 
+.cash h1{
+	font-size:85px;
+	color:#fff;
+	text-align:center;
+	margin:0px;
+}
+.save {
+	text-align:center;
+}
+.save>span{
+	font-size:39px;
+	color:#fff;
+	
+}
+.save .fourty{
+	font-size:49px;
+	color:#fff;
+	
+}
+.save .tokos{
+	font-size:24px;
+	color:#fff;
+}
+.registration{
+	background-color:rgba(56,62,73,.9);
+	height:163px;
+	width:810px;
+	border-radius:10px;
+	border:none;
+	margin:auto;
+	padding:1px;
+	margin-top: 110px;
+}
+.registration .p{
+	font-size:18px;
+	color:#fff;
+	margin-left:35px;
+	font-weight:700px;
+	font-family: 'Open Sans', sans-serif;
+}
+.p  a{
+	font-size:18px;
+	color:#56a938;
+	text-decoration:underline;
+	margin-left:9px;
+	font-weight:700px;
+	font-family: 'Open Sans', sans-serif;
+}
+.registration .input{
+	margin-left:35px;
+	font-weight:700px;
+	font-family: 'Open Sans', sans-serif;
+}
+.registration .input input{
+	height:42px;
+	width:304px;
+	border-radius:5px;
+	border:none;
+	outline:none;
+	margin-right:5px;
+	padding-left:10px;
+	background-color:#fff;
+	font-weight:700px;
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+}
+.registration .input button{
+	height:42px;
+	width:102px;
+	border-radius:5px;
+	border:none;
+	background-color:#74c74c;
+	color:#fff;
+	margin-right:5px;
+	font-weight:700px;
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+}
+.registration .checkbox{
+	margin-top:16px;
+}
+.registration .checkbox input{
+	border-radius:5px;
+	border:none;
+	opacity:0.3;
+	float:left;
+	margin-left:35px;
+	margin-right:25px;
+	font-weight:700px;
+	font-family: 'Open Sans', sans-serif;
+}
+.registration .checkbox span{
+	color:#bebfc1;
+}
+.registration .checkbox a{
+	color:#bebfc1;
+	text-decoration:underline;
+	
+}
+.brands{
+	padding-top:78px;
+	padding-bottom:124px;
+	width:100%;
+	background-repeat:no-repeat;
+	background-color:#f3f4f5;
+}
+.most-popular{
+	font-size:46px;
+	color:#53586c;
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+}
+.get-span{
+	font-size:18px;
+	color:#53586c;
+	text-align:center;
+	padding:30px;
+	font-family: 'Open Sans', sans-serif;
+}
+.brands .logos{
+	float:left;	
+	padding-top:34px;
+	margin-left:16px;
+}
+.brands .PNG{
+	height:180px;
+	width:260px;
+	background-color:#fff;
+	border:1px solid #dee1e5;
+-webkit-box-shadow: 0px 5px 15px -8px #000000; 
+box-shadow: 0px 5px 15px -8px #000000;
+}
+.brands .PNG .img-1{
+	background-image:url('../nkar/hotels.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-2{
+	background-image:url('../nkar/640px-Toys_-R-_Us_logo.svg.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-3{
+	background-image:url('../nkar/Walmart-Logo.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-4{
+	background-image:url('../nkar/531px-Nordstrom_Logo.svg.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-5{
+	background-image:url('../nkar/Macys-Logo-psd33851 copy.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-6{
+	background-image:url('../nkar/American_Eagle_Outfitters copy.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-7{
+	background-image:url('../nkar/oshkosh-and-carters-300x174 copy.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-8{
+	background-image:url('../nkar/Best-Buy copy.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-9{
+	background-image:url('../nkar/Macys-Logo-psd33851 copy.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-10{
+	background-image:url('../nkar/American_Eagle_Outfitters copy.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-11{
+	background-image:url('../nkar/oshkosh-and-carters-300x174 copy.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .PNG .img-12{
+	background-image:url('../nkar/Best-Buy copy.PNG');
+	background-position:center;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.brands .title{
+	height:45px;
+	width:260px;
+	border:1px solid #dee1e5;
+	padding:0px;
+	color:#53586c;
+	font-family: 'Open Sans', sans-serif;
+}
+.title h4{
+	margin-top:13px;
+	margin-left:18px;
+}
+.cashback{
+	height:40px;
+	width:260px;
+	border:1px solid #dee1e5;
+}
+.cashback1{
+	float:left;
+	margin-top:14px;
+	margin-left:20px;
+}
+.cashback1 span{
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+	color:#636879;
+	font-size:12px;
+
+}
+.tasnereq{
+	color:#459f24;
+	float:right;
+	margin-top:4px;
+	margin-right:19px;
+}
+.tasnereq span{	
+	font-family: 'Open Sans', sans-serif;
+	font-weight:700;
+	font-size:22px;
+}
+.shop{
+	height:45px;
+	width:260px;
+	border:1px solid #dee1e5;
+	color:#43485e;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:800;
+}
+.shop .a6{
+	margin-top: 12px;
+    margin-left: 91px;
+}
+.clear-3{
+	clear:both;
+}
+.a7{
+	text-transform:capitalize;
+	text-decoration:underline;
+	font-size:16px;
+	color:#707585;
+	float:right;
+	margin-top:31px;
+	margin-right:20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+}
+.footer-top{
+	background-color:#43485e;
+	height:280px;
+	claer:both;
+}
+.container{
+	width: 1150px;
+	margin:auto;
+}
+.footer-menu{
+	
+}
+.footer-menu li{
+	list-style-type:none;
+	font-size:14px;
+	margin-top:20px;
+}
+.footer-menu li a:hover{
+	color:#ffffff;
+}
+.footer-menu li a{
+	color:#a9abb5;
+}
+.footer-m{
+	float:left;
+	margin-top: 20px;
+}
+.footer-1{
+	margin:0;
+	padding:0;
+}
+.footer-2{
+	padding:0px;
+	margin-top:53px;
+}
+.footer-3{
+	float:left;
+	padding: 0px;
+    margin-left: 200px;
+	margin-top: 20px;
+}
+.footer-4{
+	float:left;
+	padding: 0px;
+    margin-left: 200px;
+	margin-top: 20px;
+}
+.logo-png{
+	font-size:47px;
+	float:right;
+	color:#5d6174;
+	margin-top:76px;
+	margin-right:80px;
+}
+.logohere-1{
+	
+}
+.fa-brands{
+	margin-top:25px;
+}
+.clear-4{
+	clear:both;
+}
+.footer-bottom{
+	height:63px;
+	background-color:#f4f4f4;
+}
+.all-rights{
+	float:left;
+	margin-top:23px;
+}
+.all-rights span{
+	color:#43485e;
+	font-size:14px;
+	font-weight:400;
+	text-transform:capitalize;
+	font-family: 'Open Sans', sans-serif;
+}
+.privacy{
+	float:right;
+	margin-top:23px;
+}
+.privacy a8{
+	color:#43485e;
+	font-size:14px;
+	font-weight:400;
+	font-family: 'Open Sans', sans-serif;
+}
+.clear-5{
+	clear:both;
+}
