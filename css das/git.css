@@ -1,0 +1,5 @@
+.command li{
+    list-style-type:none;
+    font-weight: 700;
+    font-size: 50px;
+}
